@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GameBoard
+comment1.params=
+comment1.target=GameBoard()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\ public\ void\ //playerChange()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ JOptionPane.showMessageDialog(new\ JInternalFrame(),\ "Next\ player,\ please\ roll\ the\ die",\ "Next\ Player",\ JOptionPane.INFORMATION_MESSAGE);\r\n}
+numComments=3
